@@ -1,3 +1,4 @@
-print("ola mundo")
-print("meu nome e carlos")
-print("eu sou de maputo e sou um programador")
+nome =input("qual seu nome")
+idade = input("qual e sua idade")
+print("{nome}")
+print("voce tem {idade} anos ")
